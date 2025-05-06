@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Spring_Online_FIR_System
 Online FIR System bulids on Springboot
 🚔 Online FIR System – Built with Spring Boot
@@ -27,3 +28,7 @@ Run the application using your Spring Boot environment (e.g., using your IDE or 
 =======
 # Online_FIR_System
 >>>>>>> 3943b26a0242f0eb8572807853e10f7078089b91
+=======
+# Online_FIR_System
+This is my Spring Boot project for managing online FIRs.
+>>>>>>> f5e6072ad0237d75e450ed859d75fe53394c9355
