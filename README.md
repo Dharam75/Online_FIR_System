@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring_Online_FIR_System
 Online FIR System bulids on Springboot
 🚔 Online FIR System – Built with Spring Boot
@@ -23,3 +24,6 @@ Configure the application.properties file for Oracle DB connection.
 Run the application using your Spring Boot environment (e.g., using your IDE or command line).
 
 🌐 Live Demo: This project is also live — you can check it out here: [{(https://springonlinefirsystem-production-ea4a.up.railway.app/)}]
+=======
+# Online_FIR_System
+>>>>>>> 3943b26a0242f0eb8572807853e10f7078089b91
