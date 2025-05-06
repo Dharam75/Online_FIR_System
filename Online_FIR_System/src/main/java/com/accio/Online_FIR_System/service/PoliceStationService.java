@@ -18,7 +18,5 @@ public class PoliceStationService {
         policeStationRepository.save(policeStation);
     }
 
-    public List<PoliceStation> getStationsWithMoreThan100Complaints() {
-        return policeStationRepository.findStationsWithMoreThan100Complaints();
-    }
+
 }

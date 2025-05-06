@@ -14,9 +14,7 @@ public interface PoliceStationRepository extends JpaRepository<PoliceStation, In
 
 
 
-    //@Query("SELECT p FROM PoliceStation p WHERE (SELECT COUNT(c) FROM Complain c WHERE c.policeStation = p) > 0")
-    @Query("SELECT p FROM PoliceStation p WHERE SIZE(p.complaints) > 0")
-    List<PoliceStation> findStationsWithMoreThan100Complaints();
+
 
 
 }

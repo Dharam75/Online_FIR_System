@@ -35,9 +35,6 @@ public class PoliceStationController {
         return modelAndView;
     }
 
-    @GetMapping("/highComplaints")
-    public List<PoliceStation> getStationsWithMoreThan100Complaints() {
-        return policeStationService.getStationsWithMoreThan100Complaints();
-    }
+
 
 }
